@@ -1,0 +1,2 @@
+# Online-Shopping-Management-System-44-67-95-
+The Online Shopping system (OSS) application enables vendors to set up online shops, customers to browse through the shops, and a system administrator to approve and reject requests for new shops and maintain lists of shop categories. Also  the  developer is designing an online shopping site to manage the items in the shop and also help customers to purchase them online without visiting the shop physically. The online shopping system will use the internet as the sole method for selling goods to its consumers.
